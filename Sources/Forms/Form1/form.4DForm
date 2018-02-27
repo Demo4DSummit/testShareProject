@@ -19,7 +19,6 @@
 		"onMenuSelect",
 		"onPluginArea",
 		"onDataChange",
-		"onDragOver",
 		"onPrintingDetail",
 		"onOpenDetail",
 		"onCloseDetail",
