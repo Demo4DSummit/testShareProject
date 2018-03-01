@@ -3,5 +3,6 @@
 <base name="test" uuid="28072B720CA24C41B52FA60310F7C571" collation_locale="en">
 	<schema name="DEFAULT_SCHEMA"/>
 	<base_extra __stringCompHash="icu:56.1.0" __keywordBuildingHash="icu:56.1.0" package_name="test" structure_file_name="test" data_file_path=":test.4DD" source_code_stamp="1">
-		<journal_file journal_file_enabled="true"/></base_extra>
+		<journal_file journal_file_enabled="true"/>
+	</base_extra>
 </base>
